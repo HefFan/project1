@@ -1,0 +1,60 @@
+.center {
+    margin: 10px 0px 10px 0px;
+    text-align: center;
+    }
+.name-color{
+    color: purple;
+    }
+ body{
+    font-family:sans-serif ;
+    color:#777777;
+    line-height: 26px;}
+.left-side{
+    width:55%;
+    float:left ;
+    }
+.right-side{
+    width:35%;
+    float:right;
+    }
+.fit{
+    width:100%;
+    heigth:75%;
+    margin:5px;
+    padding:25%;
+    }
+.pri-btn{
+    color:black;
+    text-decoration:none ;
+    background-color: red;
+    padding: 10px 20px 10px 20px;
+    border-radius: 20px;
+    }
+ h1{
+    font-size: 1.5em;
+    }
+ .container{
+    padding-left:5px ;
+    display: inline-block;
+     }
+.half-left{
+    width:35%;
+    float:left;
+    }
+
+.experience{
+    padding: 30px;
+    margin: 30px;
+    background-color: rgb(238, 251, 255);
+    border-radius: 20px;
+}
+.experience-item{
+    padding: 10px;
+    border-left: 1px solid rgba(137, 130, 247, .2);
+}
+
+
+
+
+
+
